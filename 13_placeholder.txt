@@ -1,1 +1,0 @@
-* With this, there will be a confidence of 90% that the actual average ROC curve of the classifier will be inside the resulting confidence band. Below, aspects of the chosen algorithm are described in detail. For additional information, see (GITHUB CITATION). --> 13_ROCscript
